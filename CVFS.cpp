@@ -650,7 +650,7 @@ int main()
             }
             else if (strcmp(command[0], "exit") == 0)
             {
-                printf("Terminating the Omkar Virtual File System\n");
+                printf("Terminating the MayurGapak Virtual File System\n");
                 break;
             }
             else
